@@ -17,7 +17,7 @@ O objetivo deste projeto é buscar informações de três fontes diferentes:
 
 [API de Corretoras](https://brasilapi.com.br/api/cvm/corretoras/v1): Fornece informações referentes a Corretoras ativas listadas na CVM.
 
-[API de Tabela Fipe](https://brasilapi.com.br/api/fipe/tabelas/v1)): Fornece informações sobre taxas de juros as taxas de juros e alguns índices oficiais do Brasil.
+[API de Tabela Fipe](https://brasilapi.com.br/api/fipe/tabelas/v1): Fornece informações sobre taxas de juros as taxas de juros e alguns índices oficiais do Brasil.
 
 Esses dados são então processados e salvos em um banco de dados SQLite para posterior análise.
 
